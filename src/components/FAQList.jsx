@@ -26,7 +26,7 @@ const questions = [
     fontSizeScaling: 'text-sm md:text-base',
   },
   {
-    question: 'Who can apply to Electrothon 8.0?',
+    question: 'Who can apply to Electrothon 9.0?',
     answer: 'You must be at least 18 years old and enrolled at any designated university or college. Any student from any branch and year can participate.',
     category: 'eligibility',
     answerStyle: 'h-28',
@@ -82,7 +82,7 @@ const questions = [
     fontSizeScaling: 'text-sm md:text-base',
   },
   {
-    question: 'What is the goal of Electrothon 8.0?',
+    question: 'What is the goal of Electrothon 9.0?',
     answer: 'Our goal is to foster an atmosphere where innovative concepts and technology approaches are welcomed. A gathering spot for engineers, technologists, and designers to collaborate on challenges.',
     category: 'general',
     answerStyle: 'h-32',
